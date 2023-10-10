@@ -14,6 +14,12 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 All student notes should be written here.
 
+7 - <script>
+
+9- <script> JavaScript would be written here. </script>
+
+11 - <script src="main.js">
+
 How to write `Code Examples` in markdown
 
 for JS:
