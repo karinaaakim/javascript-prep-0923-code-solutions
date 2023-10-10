@@ -26,6 +26,24 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 All student notes should be written here.
 
+7 - '=' is an 'assignment' operator
+
+9 - the "typeof" operator
+
+11 - const
+
+13 - a letter, \_, or $
+
+15 - text values
+
+17 - storing & manipulating text
+
+19 - when assigning only 2 options, ex. true or false, yes or no, etc.
+
+21 - storing & manipulating number value
+
+23 - nothing
+
 How to write `Code Examples` in markdown
 
 for JS:
